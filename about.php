@@ -134,7 +134,7 @@
                 <div class="caption">
                 <center>
                 <h4 class="deskripsi-2">Dian Dharmayanti</h4>
-                  <h6 class="deskripsi-3">Co Founder</h6>
+                  <h6 class="deskripsi-3">Leader</h6>
               </center>
               </div>  
           
@@ -143,6 +143,55 @@
       </div>
   </div>
 </section>
+
+<section id="foto_bersama" class="fluid-container">
+    
+    <div class="container" style="padding-top:27%;color:white;">
+
+                  <center>
+                <div class="col-md-4">
+                <img src="" class="img-responsive" />
+                <div class="caption" style="font-size:40px;">
+                  230
+                </div>
+                <h3>Winner of Competition</h3>
+                </div>
+
+                <div class="col-md-4">
+                <img src="" class="img-responsive" />
+                <div class="caption" style="font-size:40px;">
+                  24
+                </div>
+                <h3>Product Development</h3>
+                </div>
+                
+                <div class="col-md-4">
+                <img src="" class="img-responsive" />
+                <div class="caption" style="font-size:40px;">
+                    14
+                </div>
+                <h3>Joint Project</h3>
+                </div>
+                </center>
+    </div>
+</section>
+
+  <section id="oprek" class="fluid-container" style="background-color:#17a59b;padding-top:5%">
+        <div class="container">
+          <div class="row">
+            
+            <div class="col-md-8" style="color:white">
+              <h1 style="font-weight:bold;font-family:'Lato Reguler', sans-serif;">CodeLabs is opening recruitment!</h1>
+                <p style="font-family:'Lato Reguler', sans-serif;line-height: 1.2;">
+                Let's learn together, build technology with love</p>
+           </div>
+
+            <div class="col-md-4">
+              <button class="btn btn-primary">Join Now!</button>
+            </div>
+          </div>
+        </div>
+  </section>
 
     
 </body>
