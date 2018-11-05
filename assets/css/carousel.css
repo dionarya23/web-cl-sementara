@@ -1,0 +1,95 @@
+.carousel-background {
+    padding: 50px 0px;
+    background: radial-gradient(farthest-corner at 50% 0%, #69e2e2, #2dc5bd, #22b0aa);
+}
+
+#carousel {
+    width: 100%;
+    overflow: hidden;
+    background: radial-gradient(farthest-corner at 50% 0%, #62dcdc, #2dbbb9, #1daba3);
+}
+
+#carousel-desktop{
+    background: radial-gradient(farthest-corner at 50% 0%, #62dcdc, #2dbbb9, #1daba3);
+}
+
+.bg-navbar {
+    background: radial-gradient(farthest-corner at 50% 0%, #62dcdc, #2dbbb9, #1daba3) !important;
+}
+
+.bg-navbar a {
+    color: white !important;
+}
+
+ .caption-slider {
+        font-size:28px;
+        text-align: left;
+        color: #ffffff;
+    }
+
+@media only screen and (min-width: 720px) {
+    #carousel {
+        height: 90% !important;
+    }
+    
+}
+
+@media only screen and (min-width: 360px) {
+
+    #carousel {
+        height: 50%;
+    }
+
+    .caption-slider {
+        font-size:28px;
+        margin-bottom:0px;
+        text-align: center
+    }
+
+    .feedback-carousel .info {
+        position: relative;
+        padding: 20px;
+        border-radius: 3px;
+        box-shadow: 0 8px 30px -20px rgba(0, 0, 0, .5);
+        margin-left: 1em;
+        margin-right: 1em;
+        border-radius: 1em;
+        margin-top: 2em;
+    }
+    .feedback-carousel {
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-top: 90px;
+    }
+    .img-carousel {
+        position: relative;
+        width: 400px;
+        margin-top: 0px;
+    }
+    
+    .ui.header {
+        border: none;
+        margin: 0.5rem 0 0.5rem;
+        font-family: 'Lato';
+        font-weight: 700;
+        line-height: 1.28571429em;
+        text-transform: none;
+        color: #17a59b;
+    }
+    .ui.header:first-child {
+        margin-top: 1em;
+    }
+
+    .transition {
+        color: white;
+        padding-bottom: 0.5em;
+    }
+    .pusher.transition {
+        padding-top: 1.5em;
+        margin-bottom: 0;
+    }
+    .trans {
+        background: black;
+    }
+    /* resume page slider - highlights - end */
+}

@@ -1,0 +1,135 @@
+
+body {
+    font-family: 'Lato', sans-serif;
+    background: white;
+}
+
+
+#home:hover {
+    text-decoration: none
+}
+
+#back_to_home:hover{
+    background-color:white;
+}
+
+.title-text {
+    font-family: 'Lato-Bold', sans-serif;
+    color: #17a59b;
+    font-weight: bold;
+}
+
+.deskripsi {
+    font-family: 'Lato Reguler', sans-serif;
+    color: #9b9b9b;
+}
+
+.deskripsi-2 {
+    margin-top: 15%;
+    font-family: 'Lato-Bold', sans-serif;
+    color: #676767;
+    font-weight: bold;
+}
+
+.deskripsi-3 {
+    font-family: 'Lato Reguler', sans-serif;
+    color: #676767;
+}
+
+.img-responsive {
+    border-radius: 3%;
+}
+
+#founder {
+    background-color: #f6f6f6;
+    margin-top:80px;
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+
+#foto_bersama {
+    background-image:linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),url('../images/foto_bersama.jpg');
+    background-size: 100%;
+    min-height: 800px;
+}
+
+#oprek{
+    background: #17a59b;
+    color: white;
+}
+
+#oprek .container{
+    display: flex;
+    justify-content: space-between;
+}
+
+#join-button{
+    display: flex;
+    align-items: center;
+}
+
+#join-button .btn{
+    border-radius: 20px;  
+    background-color: #ffc549;
+}
+
+#footer{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),url('../images/backgrounds.png');
+    color: white;
+}
+
+#footer .container{
+    width: 70%;
+}
+
+#logo-title{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+#logo-title img{
+    width: 200px;
+}
+
+#menu-selection{
+    display: flex;
+    justify-content: center;
+}
+
+#menu-selection div{
+    padding: 0 8px;
+}
+
+.desc p{
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.85;
+    letter-spacing: normal;
+    text-align: center;
+    color: rgba(255, 255, 255, .5);
+    margin: 40px 0;
+}
+
+#logo-title, #menu-selection, #contact-icon{
+    margin: 40px 0 ;
+}
+
+ #contact-icon{
+    display: flex;
+    justify-content: center;
+ }
+
+#love{
+    width: 27.5px;
+}
+
+ #contact-icon img{
+     padding: 0 10px;
+     width: 74.8px;
+ }
+
