@@ -1,3 +1,18 @@
+<?php
+// $curl = curl_init();
+// curl_setopt($curl, CURLOPT_URL, "https://medium-json-feed.herokuapp.com/codelabs-unikom/trending");
+// curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1); 
+// $result = curl_exec($curl);
+// $h = json_decode($result);
+
+// for ($i=0;$i<5;$i++) {
+//     echo $h->response[$i]->title;
+//     echo '<br />';
+//     echo $h->response[$i]->virtuals->previewImage->imageId;
+//     echo '<br /><br />';
+// }
+// die();
+?>
 <!DOCTYPE html>
 <html>
 
@@ -708,7 +723,7 @@
                                 <div class="avatar">
                                     <img class="photo" style="border-radius:50%" src="https://miro.medium.com/fit/c/240/240/0*mjAGnmA0lBMSQNPT." alt="">
                                     <p class="avatar-name">Yoga Tri Nugroho</p>
-                                    <p>UI/UX Researcher - Tokopedia</p>
+                                    <span>UI/UX Researcher - Tokopedia</span>
                                 </div>
                             </div>
 
@@ -720,7 +735,7 @@
                                 <div class="avatar">
                                 <img class="photo" style="border-radius:50%" src="https://pbs.twimg.com/profile_images/882828186165420032/5BwsiYp7_400x400.jpg" alt="">
                                     <p class="avatar-name">Muhammad Rivki</p>
-                                    <p>Software Engineer - Bukalapak</p>
+                                    <span>Software Engineer - Bukalapak</span>
                                 </div>
                             </div>
 
@@ -733,7 +748,7 @@
                                 <div class="avatar">
                                 <img class="photo" style="border-radius:50%" src="https://media.licdn.com/dms/image/C5103AQG-bfLnNbXxeg/profile-displayphoto-shrink_800_800/0?e=1542240000&v=beta&t=0_xWbvx5Q8KAPAvANkagQTRw5EmaDfWcn0jYFO2LyJU" alt="">
                                     <p class="avatar-name">Bayu Paoh</p>
-                                    <p>Android Developer - Suitmedia</p>
+                                    <span>Android Developer - Suitmedia</span>
                                 </div>
                             </div>
 
