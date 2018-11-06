@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52.611 89.022">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-3, .cls-4 {
+        stroke: #fff;
+      }
+
+      .cls-3, .cls-4, .cls-6 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke-miterlimit: 10;
+        stroke-width: 2.1px;
+      }
+
+      .cls-4 {
+        stroke-width: 2.5px;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_65" data-name="Group 65" transform="translate(-933.703 -2725.093)">
+    <g id="mobile_icon" transform="translate(934.178 2725.569)">
+      <path id="Path_111" data-name="Path 111" class="cls-1" d="M50.021,118.271v11.66c0,1.6.05,3.212,0,4.813a5.615,5.615,0,0,1-5.819,5.478c-9.764.063-19.512,0-29.268,0h-6a8.831,8.831,0,0,1-4.272-.612c-3.46-1.818-2.971-5.539-2.971-8.78v-31.4c0-8.387.161-16.789,0-25.173V73.83a.805.805,0,0,0-1.61,0v55.916c0,2.568-.425,5.779.752,8.146a7.285,7.285,0,0,0,6.679,3.924H43.381a8.59,8.59,0,0,0,5.22-1.285c2.33-1.644,3.035-4.133,3.035-6.832V118.271a.805.805,0,0,0-1.61,0Z" transform="translate(0 -53.771)"/>
+      <path id="Path_112" data-name="Path 112" class="cls-1" d="M189.53,212.63v3.328a.805.805,0,0,0,1.61,0V212.63A.805.805,0,0,0,189.53,212.63Z" transform="translate(-139.509 -154.942)"/>
+      <path id="Path_113" data-name="Path 113" class="cls-1" d="M1.847,15.391V10.113c0-2.058-.264-4.249.968-6.041C4.768,1.233,8.135,1.7,11.109,1.7H37.472c2.388,0,4.787-.063,7.175,0a5.581,5.581,0,0,1,5.529,5.484c.016.528,0,1.032,0,1.546V32.463c0,6.977-.153,13.986,0,20.953v.377a.805.805,0,0,0,1.61,0V9.221c0-.668.016-1.338,0-2.006A7.215,7.215,0,0,0,47.7.766C45.4-.313,42.341.088,39.86.088H12.347C9.885.088,6.787-.326,4.478.7A7.229,7.229,0,0,0,.234,7.308c-.037,2.072,0,4.146,0,6.22v1.863a.805.805,0,0,0,1.61,0Z" transform="translate(-0.155 0)"/>
+      <path id="Path_114" data-name="Path 114" class="cls-2" d="M72.59,28.18H85.157a.805.805,0,0,0,0-1.61H72.59A.805.805,0,0,0,72.59,28.18Z" transform="translate(-52.857 -19.555)"/>
+      <circle id="Ellipse_26" data-name="Ellipse 26" class="cls-3" cx="4.109" cy="4.109" r="4.109" transform="translate(21.826 73.065)"/>
+    </g>
+    <g id="Rectangle_43" data-name="Rectangle 43" class="cls-4" transform="translate(942 2739)">
+      <rect class="cls-5" width="37" height="55" rx="5"/>
+      <rect class="cls-6" x="1.25" y="1.25" width="34.5" height="52.5" rx="3.75"/>
+    </g>
+  </g>
+</svg>

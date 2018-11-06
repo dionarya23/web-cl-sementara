@@ -38,6 +38,8 @@
   </div>
 </nav>
 
+
+<!-- Jumbotron -->
 <section class="jumbotron" style="margin-top:20px;height:100%;background-image:url('assets/images/about-background.png');background-repeat:no-repeat;background-size:cover;height:300px;">
   <div class="container" style="color:white;">
   <center>
@@ -79,6 +81,8 @@
   </div>
 </section>
 
+
+<!-- Founder --->
 <section id="founder" class="fluid-container">
       <center>
         <h2 class="title-text">
@@ -142,40 +146,36 @@
 
 <section id="foto_bersama" class="fluid-container">
     
-    <div class="container">
-              <div id="main-title">
-                  <h1>What We Have Achieved</h1>
-                  <p>We do various things in building social with technology</p>
-              </div>
-              <div id="achivement">
-                <center>
-                  <div class="col-md-4">
-                  <img src="assets/images/product_dev.svg" class="img-responsive" />
-                  <div class="caption" style="font-size:40px;">
-                    230
-                  </div>
-                  <h3>Winner of Competition</h3>
-                  </div>
+    <div class="container" style="padding-top:27%;color:white;">
 
-                  <div class="col-md-4">
-                  <img src="assets/images/product_dev.svg" class="img-responsive" />
-                  <div class="caption" style="font-size:40px;">
-                    24
-                  </div>
-                  <h3>Product Development</h3>
-                  </div>
-                  
-                  <div class="col-md-4">
-                  <img src="assets/images/product_dev.svg" class="img-responsive" />
-                  <div class="caption" style="font-size:40px;">
-                      14
-                  </div>
-                  <h3>Joint Project</h3>
-                  </div>
+                  <center>
+                <div class="col-md-4">
+                <img src="" class="img-responsive" />
+                <div class="caption" style="font-size:40px;">
+                  230
+                </div>
+                <h3>Winner of Competition</h3>
+                </div>
+
+                <div class="col-md-4">
+                <img src="" class="img-responsive" />
+                <div class="caption" style="font-size:40px;">
+                  24
+                </div>
+                <h3>Product Development</h3>
+                </div>
+                
+                <div class="col-md-4">
+                <img src="" class="img-responsive" />
+                <div class="caption" style="font-size:40px;">
+                    14
+                </div>
+                <h3>Joint Project</h3>
+                </div>
                 </center>
-              </div>
     </div>
 </section>
+
 
   <section id="oprek">
         <div class="container">        
@@ -223,5 +223,4 @@ Universitas Komputer Indonesia..</p>
 
     
 </body>
-</html>
-
+</html
