@@ -72,7 +72,7 @@ body {
     color: white;
     display: flex;
     justify-content: space-around;
-    padding: 30px 0;
+    padding: 20px 0;
 }
 
 #join-button{
@@ -89,6 +89,7 @@ body {
 #footer{
     background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),url('../images/backgrounds.png');
     color: white;
+    font-family: 'Lato Reguler', sans-serif;
 }
 
 #footer .container{
@@ -103,7 +104,8 @@ body {
 }
 
 #logo-title img{
-    width: 200px;
+    width: 150px;
+    margin: 20px 0 10px 0;
 }
 
 #menu-selection{
@@ -112,10 +114,16 @@ body {
 }
 
 #menu-selection div{
-    padding: 0 8px;
+    padding: 0 28px;
+    font-weight: bold;
 }
 
-#desc p{
+.desc{
+    margin: 26px 0 10px 0;
+    
+}
+
+.desc p{
     font-family: Lato;
     font-size: 16px;
     font-weight: 300;
@@ -124,12 +132,12 @@ body {
     line-height: 1.85;
     letter-spacing: normal;
     text-align: center;
-    color: rgba(255, 255, 255, .5);
-    margin: 40px 0;
+    padding: 0 100px;
+    
 }
 
 #logo-title, #menu-selection, #contact-icon{
-    margin: 40px 0 ;
+    padding: 10px 0 ;
 }
 
  #contact-icon{
@@ -142,6 +150,6 @@ body {
 }
 
  #contact-icon img{
-     padding: 0 10px;
-     width: 74.8px;
+     padding: 0 2px 12px 2px;
+     width: 44.8px;
  }

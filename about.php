@@ -189,7 +189,7 @@
   </section>
 
   <section id="footer" class="text-center">
-    <div class="container">
+    <div class="fluid-container">
       <div id="logo-title">
         <img src="assets/images/logo-cl.png" class="img-responsive text-center" />
       </div>
@@ -208,7 +208,7 @@ Universitas Komputer Indonesia..</p>
       </div>
       <div class="row">
         <div class="col-md-4"><hr></div>
-        <div class="col-md-4">Build With <img src="assets/images/hearts.png" alt="" id="love"> By Technology</div>
+        <div class="col-md-4"><b>Build With <img src="assets/images/hearts.png" alt="" id="love"> By Technology</b></div>
         <div class="col-md-4"><hr></div>
       </div>
       <div id="contact-icon">
