@@ -145,7 +145,7 @@
     
     <div class="container" style="padding-top:27%;color:white;">
 
-                  <center>
+              <center>
                 <div class="col-md-4">
                 <img src="" class="img-responsive" />
                 <div class="caption" style="font-size:40px;">
