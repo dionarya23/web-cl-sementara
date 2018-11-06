@@ -51,7 +51,21 @@ body {
     background-image:linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),url('../images/foto_bersama.jpg');
     background-size: 100%;
     min-height: 800px;
+    color: white;
 }
+
+#foto_bersama .container{
+    display: flex;
+    flex-direction: column;
+}
+
+.container #main-title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px 0 250px 0;
+}
+
 
 #oprek{
     background: #17a59b;
