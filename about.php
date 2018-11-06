@@ -81,8 +81,6 @@
   </div>
 </section>
 
-
-<!-- Founder --->
 <section id="founder" class="fluid-container">
       <center>
         <h2 class="title-text">
@@ -146,11 +144,14 @@
 
 <section id="foto_bersama" class="fluid-container">
     
-    <div class="container" style="padding-top:27%;color:white;">
-
-                  <center>
+    <div class="container">
+              <div id="main-title">
+                <h1>What We Have Achieve</h1>
+                <p>We do various thing building society with technology</p>
+              </div>
+              <center>
                 <div class="col-md-4">
-                <img src="" class="img-responsive" />
+                <img src="assets/images/product_dev.png" class="img-responsive" style="width:35px; height:59px;"/>
                 <div class="caption" style="font-size:40px;">
                   230
                 </div>
@@ -158,7 +159,7 @@
                 </div>
 
                 <div class="col-md-4">
-                <img src="" class="img-responsive" />
+                <img src="assets/images/product_dev.png" class="img-responsive" style="width:35px; height:59px;/">
                 <div class="caption" style="font-size:40px;">
                   24
                 </div>
@@ -166,27 +167,25 @@
                 </div>
                 
                 <div class="col-md-4">
-                <img src="" class="img-responsive" />
+                <img src="assets/images/product_dev.png" class="img-responsive" style="width:35px; height:59px;/">
                 <div class="caption" style="font-size:40px;">
                     14
                 </div>
                 <h3>Joint Project</h3>
                 </div>
-                </center>
+              </center>
     </div>
 </section>
 
 
-  <section id="oprek">
-        <div class="container">        
+  <section id="oprek"> 
             <div id="desc-title" >
-              <h1>CodeLabs is opening recruitment!</h1>
-              <p>Let's learn together, build technology with love</p>
+              <h1 style="font-family:'Lato-Bold', sans-serif;font-weight:bold">CodeLabs is opening recruitment!</h1>
+              <p style="font-family:'Lato-Light',sans-serif;margin-top:-10px;">Let's learn together, build technology with love</p>
             </div>
             <div id="join-button">
               <button class="btn">Join Now!</button>
             </div>
-        </div>
   </section>
 
   <section id="footer" class="text-center">

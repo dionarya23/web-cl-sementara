@@ -68,13 +68,11 @@ body {
 
 
 #oprek{
-    background: #17a59b;
+    background-color: #17a59b;
     color: white;
-}
-
-#oprek .container{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    padding: 30px 0;
 }
 
 #join-button{
@@ -83,8 +81,9 @@ body {
 }
 
 #join-button .btn{
-    border-radius: 20px;  
+    border-radius: 12%;  
     background-color: #ffc549;
+    padding: 14px 50px;
 }
 
 #footer{
@@ -116,7 +115,7 @@ body {
     padding: 0 8px;
 }
 
-.desc p{
+#desc p{
     font-family: Lato;
     font-size: 16px;
     font-weight: 300;
