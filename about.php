@@ -59,7 +59,6 @@
         Over the years come, who nostrud exercise, the school district work 
         aliquip advantage from it, but to be a problem. But the pain in his homework cupidatat
         </p>
-
         
        <div class="w3-panel w3-white w3-leftbar w3-border-teal">
          <p class="deskripsi"> <i> lorem ipsum carrots, enhanced undergraduate developer;
