@@ -38,8 +38,6 @@
   </div>
 </nav>
 
-
-<!-- Jumbotron --->
 <section class="jumbotron" style="margin-top:20px;height:100%;background-image:url('assets/images/about-background.png');background-repeat:no-repeat;background-size:cover;height:300px;">
   <div class="container" style="color:white;">
   <center>
@@ -57,17 +55,18 @@
         <h2 class="title-text">Who We Are ?</h2>
         <p class="deskripsi">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
-        nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in 
+        labor and in pain, and vitality, so that long-but some important things to do eiusmod. 
+        Over the years come, who nostrud exercise, the school district work 
+        aliquip advantage from it, but to be a problem. But the pain in his homework cupidatat
         </p>
 
         
        <div class="w3-panel w3-white w3-leftbar w3-border-teal">
-         <p class="deskripsi"><i>Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
-        nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in</i></p>
+         <p class="deskripsi"> <i> lorem ipsum carrots, enhanced undergraduate developer;
+        labor and in pain, and vitality, so that long-but some important things to do eiusmod. 
+        Over the years come, who nostrud exercise, the school district work 
+        aliquip advantage from it, but to be a problem. But the pain in his homework cupidatat
+         </i></p>
          </div>
         </div>
 
@@ -81,15 +80,13 @@
   </div>
 </section>
 
-
-<!-- Founder --->
 <section id="founder" class="fluid-container">
       <center>
         <h2 class="title-text">
         Our Expert Team
         </h2>
         <h5 class="deskripsi" style="line-break:strict">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod<br /> tempor incididunt  ex ea commodo consequat.
+        Lorem ipsum carrots, enhanced undergraduate developer, but they do occaecat <br/> time and vitality advantage from it.
         </h5>
       </center>
 
@@ -176,24 +173,50 @@
     </div>
 </section>
 
-  <section id="oprek" class="fluid-container" style="background-color:#17a59b;padding-top:5%">
-        <div class="container">
-          <div class="row">
-            
-            <div class="col-md-8" style="color:white">
-              <h1 style="font-weight:bold;font-family:'Lato Reguler', sans-serif;">CodeLabs is opening recruitment!</h1>
-                <p style="font-family:'Lato Reguler', sans-serif;line-height: 1.2;">
-                Let's learn together, build technology with love</p>
-           </div>
-
-            <div class="col-md-4">
-              <button class="btn btn-primary">Join Now!</button>
+  <section id="oprek">
+        <div class="container">        
+            <div id="desc-title" >
+              <h1>CodeLabs is opening recruitment!</h1>
+              <p>Let's learn together, build technology with love</p>
             </div>
-          </div>
+            <div id="join-button">
+              <button class="btn">Join Now!</button>
+            </div>
         </div>
+  </section>
+
+  <section id="footer" class="text-center">
+    <div class="container">
+      <div id="logo-title">
+        <img src="assets/images/logo-cl.png" class="img-responsive text-center" />
+      </div>
+      <div id="menu-selection">
+        <div>Home</div>
+        <div>About</div>
+        <div>Services</div>
+        <div>Terms</div>
+        <div>Testimony</div>
+        <div>Contact Us</div>
+      </div>
+      <div class="desc">
+        <p>CodeLabs is a digital expert division. We create many applications to help people, follow the software competition, spread knowledge about software development, 
+work with many agencies to build software. And we are from 
+University Computer Indonesia</p>
+      </div>
+      <div class="row">
+        <div class="col-md-4"><hr></div>
+        <div class="col-md-4">Build With <img src="assets/images/hearts.png" alt="" id="love"> By Technology</div>
+        <div class="col-md-4"><hr></div>
+      </div>
+      <div id="contact-icon">
+        <div><img src="assets/images/fb_logo.png" class="img-responsive" /></div>
+        <div><img src="assets/images/ig_logo.png" class="img-responsive" /></div>
+        <div><img src="assets/images/twitter_logo.png" class="img-responsive" /></div>
+        <div><img src="assets/images/youtube_logo.png" class="img-responsive" /></div>       
+      </div>
+    </div>
   </section>
 
     
 </body>
 </html>
-
