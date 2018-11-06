@@ -1,3 +1,4 @@
+
 body {
     font-family: 'Lato', sans-serif;
     background: white;
@@ -18,20 +19,20 @@ body {
     font-weight: bold;
 }
 
-. description {
-    font-family : ' Lato Reguler ' , sans-serif ;
+.deskripsi {
+    font-family: 'Lato Reguler', sans-serif;
     color: #9b9b9b;
 }
 
-. description-2 {
+.deskripsi-2 {
     margin-top: 15%;
     font-family: 'Lato-Bold', sans-serif;
     color: #676767;
     font-weight: bold;
 }
 
-. description-3 {
-    font-family : ' Lato Reguler ' , sans-serif ;
+.deskripsi-3 {
+    font-family: 'Lato Reguler', sans-serif;
     color: #676767;
 }
 
@@ -50,16 +51,28 @@ body {
     background-image:linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),url('../images/foto_bersama.jpg');
     background-size: 100%;
     min-height: 800px;
-}
-
-#oprek {
-    background: #17a59b;
     color: white;
 }
 
-#oprek.  container {
+#foto_bersama .container{
     display: flex;
-    justify-content: space-between;
+    flex-direction: column;
+}
+
+.container #main-title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px 0 250px 0;
+}
+
+
+#oprek{
+    background-color: #17a59b;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 30px 0;
 }
 
 #join-button{
@@ -68,8 +81,9 @@ body {
 }
 
 #join-button .btn{
-    border-radius: 20px;  
+    border-radius: 12%;  
     background-color: #ffc549;
+    padding: 14px 50px;
 }
 
 #footer{
@@ -101,7 +115,7 @@ body {
     padding: 0 8px;
 }
 
-.desc p{
+#desc p{
     font-family: Lato;
     font-size: 16px;
     font-weight: 300;
@@ -114,6 +128,11 @@ body {
     margin: 40px 0;
 }
 
+.count{
+    font-family: 'Lato Bold', sans-serif;
+    font-weight: bold;
+}
+
 #logo-title, #menu-selection, #contact-icon{
     margin: 40px 0 ;
 }
@@ -124,7 +143,7 @@ body {
  }
 
 #love{
-    width: 27.5px;
+    width: 15px;
 }
 
  #contact-icon img{

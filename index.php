@@ -1071,7 +1071,7 @@
 <section id="footer-bwh">
         <div class="ui simple active grid" style="padding-top: 20px;">
             <div class="column">
-                <img id="image-logo" class="ui centered image" src="assets/images/logo-cl.png" height="50px">
+                <img id="image-logo" class="ui centered image" src="assets/images/logo/logo-codelabs.png" height="50px">
                 <div class="ui centered container grid" id="menu-footer">
 
                     <div class="ui horizontal container small divided link list">

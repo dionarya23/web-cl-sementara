@@ -8,8 +8,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css?family=Lato:300i,400" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"/>    
     <link rel="stylesheet" href="assets/css/about.css" />
-    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 </head>
 <body>
 
@@ -38,6 +38,8 @@
   </div>
 </nav>
 
+
+<!-- Jumbotron -->
 <section class="jumbotron" style="margin-top:20px;height:100%;background-image:url('assets/images/about-background.png');background-repeat:no-repeat;background-size:cover;height:300px;">
   <div class="container" style="color:white;">
   <center>
@@ -53,19 +55,14 @@
 
       <div class="col-md-6">
         <h2 class="title-text">Who We Are ?</h2>
-        <p class="deskripsi">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-        labor and in pain, and vitality, so that long-but some important things to do eiusmod. 
-        Over the years come, who nostrud exercise, the school district work 
-        aliquip advantage from it, but to be a problem. But the pain in his homework cupidatat
+        <p class="deskripsi">CodeLabs is a digital expert division. We create many applications to help people, follow the software competition, spread knowledge about software development, 
+work with many agencies to build software. And we are from 
+Universitas Komputer Indonesia
         </p>
+
         
        <div class="w3-panel w3-white w3-leftbar w3-border-teal">
-         <p class="deskripsi"> <i> lorem ipsum carrots, enhanced undergraduate developer;
-        labor and in pain, and vitality, so that long-but some important things to do eiusmod. 
-        Over the years come, who nostrud exercise, the school district work 
-        aliquip advantage from it, but to be a problem. But the pain in his homework cupidatat
-         </i></p>
+         <p class="deskripsi"><i>“when you don't create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create.”</i></p>
          </div>
         </div>
 
@@ -85,7 +82,7 @@
         Our Expert Team
         </h2>
         <h5 class="deskripsi" style="line-break:strict">
-        Lorem ipsum carrots, enhanced undergraduate developer, but they do occaecat <br/> time and vitality advantage from it.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod<br /> tempor incididunt  ex ea commodo consequat.
         </h5>
       </center>
 
@@ -142,52 +139,54 @@
 
 <section id="foto_bersama" class="fluid-container">
     
-    <div class="container" style="padding-top:27%;color:white;">
-
+    <div class="container">
+              <div id="main-title">
+                <h1 style="font-family:'Lato Bold',sans-serif">What We Have Achieve</h1>
+                <p style="font-family:'Lato Reguler',sans-serif">We do various thing building society with technology</p>
+              </div>
               <center>
                 <div class="col-md-4">
-                <img src="" class="img-responsive" />
+                <img src="assets/images/quality.png" class="img-responsive" style="width:45px; height:59px;"/>
                 <div class="caption" style="font-size:40px;">
-                  230
+                  <p class="count">230</p>
                 </div>
                 <h3>Winner of Competition</h3>
                 </div>
 
                 <div class="col-md-4">
-                <img src="" class="img-responsive" />
+                <img src="assets/images/product_dev.png" class="img-responsive" style="width:35px; height:59px;/">
                 <div class="caption" style="font-size:40px;">
-                  24
+                 <p class="count">24</p>
                 </div>
                 <h3>Product Development</h3>
                 </div>
                 
                 <div class="col-md-4">
-                <img src="" class="img-responsive" />
+                <img src="assets/images/idea.png" class="img-responsive" style="width:40px; height:59px;/">
                 <div class="caption" style="font-size:40px;">
-                    14
+                    <p class="count">14</p>
                 </div>
                 <h3>Joint Project</h3>
                 </div>
-                </center>
+              </center>
     </div>
 </section>
 
-  <section id="oprek">
-        <div class="container">        
+
+  <section id="oprek"> 
             <div id="desc-title" >
-              <h1>CodeLabs is opening recruitment!</h1>
-              <p>Let's learn together, build technology with love</p>
+              <h1 style="font-family:'Lato-Bold', sans-serif;font-weight:bold">CodeLabs is opening recruitment!</h1>
+              <p style="font-family:'Lato-Light',sans-serif;margin-top:-10px;">Let's learn together, build technology with love</p>
             </div>
             <div id="join-button">
               <button class="btn">Join Now!</button>
             </div>
-        </div>
   </section>
 
   <section id="footer" class="text-center">
     <div class="container">
       <div id="logo-title">
-        <img src="assets/images/logo-cl.png" class="img-responsive text-center" />
+        <img src="assets/images/logo/logo-codelabs.png" class="img-responsive text-center" />
       </div>
       <div id="menu-selection">
         <div>Home</div>
@@ -200,22 +199,73 @@
       <div class="desc">
         <p>CodeLabs is a digital expert division. We create many applications to help people, follow the software competition, spread knowledge about software development, 
 work with many agencies to build software. And we are from 
-University Computer Indonesia</p>
+Universitas Komputer Indonesia..</p>
       </div>
       <div class="row">
         <div class="col-md-4"><hr></div>
-        <div class="col-md-4">Build With <img src="assets/images/hearts.png" alt="" id="love"> By Technology</div>
+        <div class="col-md-4">Build With <img src="assets/images/hearts.png" id="love"> By Technology</div>
         <div class="col-md-4"><hr></div>
       </div>
       <div id="contact-icon">
-        <div><img src="assets/images/fb_logo.png" class="img-responsive" /></div>
-        <div><img src="assets/images/ig_logo.png" class="img-responsive" /></div>
-        <div><img src="assets/images/twitter_logo.png" class="img-responsive" /></div>
-        <div><img src="assets/images/youtube_logo.png" class="img-responsive" /></div>       
+        <div>
+        <a href="https://www.facebook.com/unikom.codelabs/">
+        <img src="assets/images/fb_logo.png" class="img-responsive" />
+        </a>
+        </div>
+        <div>
+        <a href="https://www.instagram.com/unikomcodelabs/">
+        <img src="assets/images/ig_logo.png" class="img-responsive" />
+        </a>
+        </div>
+
+        <div>
+        <a href="https://twitter.com/UnikomCodelabs">
+        <img src="assets/images/twitter_logo.png" class="img-responsive" />
+        </a></div>
+        <div>
+        <a href="https://www.youtube.com/channel/UClAhgmmRILg8urZ-L5ylkfQ">
+        <img src="assets/images/youtube_logo.png" class="img-responsive" />
+        </a>
+        </div>       
       </div>
     </div>
   </section>
 
-    
+              <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+              <script>
+              $(document).ready(() => {
+                var i=0;
+                  $(window).on('scroll', function() {
+                   var jarak = $(document).scrollTop();
+                    
+                    if (jarak === 1600) {
+                     i+=1 ;
+                     doCount(i);
+                    }
+
+                });
+
+                var doCount = function (i) {
+                  
+                  if (i== 1) {
+                    $('.count').each(function () {
+                       $(this).prop('Counter',0).animate({
+                        Counter: $(this).text()
+                          }, {
+                           duration: 4000,
+                           easing: 'swing',
+                           step: function (now) {
+                             $(this).text(Math.ceil(now));
+                          }
+                    });
+                  });
+                        console.log("Do Count");
+                  }else{
+                        console.log("Do nothing ");
+                  }
+                }
+              });
+              </script>
+
 </body>
 </html>
